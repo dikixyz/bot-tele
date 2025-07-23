@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
-  "changelog": "...",
+  "changelog": "• Fix bugs\n• UI baru",
   "apk": {
-    "url": "https://..."
+    "url": "https://github.com/jsja-dev/.../jw-litex-v1.2.0.apk"
   }
 }
