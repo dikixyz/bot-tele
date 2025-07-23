@@ -1,10 +1,7 @@
 {
-  "tag_name": "v1.2.0",
-  "body": "• Perbaikan bug\n• Dukungan Android lebih luas\n• UI baru",
-  "assets": [
-    {
-      "name": "jw-litex-v1.2.0.apk",
-      "browser_download_url": "https://github.com/jsja-dev/jw-litex-updates/releases/download/v1.2.0/jw-litex-v1.2.0.apk"
-    }
-  ]
+  "version": "1.2.0",
+  "changelog": "...",
+  "apk": {
+    "url": "https://..."
+  }
 }
